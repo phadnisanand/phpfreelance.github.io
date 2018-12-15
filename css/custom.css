@@ -17,3 +17,8 @@
     width:100%;
     position:absolute;
 }
+
+#myCarousel.carousel.slide {
+    width: 100%; 
+    max-width: 500px; !important
+}
