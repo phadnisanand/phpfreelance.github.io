@@ -2,6 +2,7 @@
 
 .navbar-default {
    border-color: white !important; 
+   background-color: unset  !important;
 }
 
 .map-responsive{
